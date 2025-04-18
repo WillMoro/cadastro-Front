@@ -1,12 +1,17 @@
-# React + Vite
+<h1 align="center"> ❗ Front-end: tela do sistema de cadastro desenvolvida com React</h1>
+<p align="center">Formulário de cadastro, tela de login e tela de listagem de usuários</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center"> 📑 Introdução</h1>
+<p align="start"> ➡ Front-end desenvolvido em React para integração com o banco de dados.</p>
+<p align="start"> ➡ Com este projeto, o usuário pode se cadastrar, fazer login e também listar os usuários já cadastrados no sistema.</p>
+<p align="start"> ➡ O objetivo desse projeto foi criar uma aplicação full stack totalmente integrada e funcional.</p>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1 align="center"> 🛠 Tecnologias utilizadas no projeto: </h1>
+<p align="start"> ✅ React e Vite - Criação das interfaces através da componentização.</p>
+<p align="start"> ✅ Tailwind CSS - Estilização rápida e eficiente das interfaces.</p>
+<p align="start"> ✅ Axios - Envio dos dados para o back-end</p>
+<p align="start"> ✅ CORS - Mecanismo de segurança para acessar sites de outro dominio </p>
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h1 align="center"> 🎯 Resultado </h1>
+<p align="start"> ✅ Desenvolvida parte front-end e integrada ao back-end, finalizando uma aplicação full stack funcional. </p>
