@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/bbbe3ceb-c5cc-4e6f-85a3-b5a6b97cb855)
+
+![image](https://github.com/user-attachments/assets/f225e041-dbeb-4d65-b0ba-56624eac1b86)
+
+
+
 <h1 align="center"> ❗ Front-end: tela do sistema de cadastro desenvolvida com React</h1>
 <p align="center">Formulário de cadastro, tela de login e tela de listagem de usuários</p>
 
